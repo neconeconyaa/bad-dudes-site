@@ -22,11 +22,11 @@ To contribute you can make edits directly on Github, clone the repository and ru
 
 ![edit file](assets\contribute\single-file-edit1.png)
 
-2. Make your desired changes to the file and write a commit message summarizing the changes at the bottom. Click the `Propose file change` button.
+2. Make your desired changes to the file and write a commit message summarizing the changes at the bottom. Select the option to create a new branch and give it a name. Click the `Propose file change` button. This process creates a fork of the repository under your own account that you control. Repo administrators will have access to this fork and will be able to directly make changes to it during the pull request process. 
 
 ![change file](assets\contribute\single-file-change2.png)
 
-3. You have now created a fork of the repository under your own account. A diff showing the changes that applying your fork to the original repository will make is deplayed. Verify your changes and make any further necessary edits to your fork. When complete, click `Create pull request`.
+3. You have now created a your fork. A diff showing the changes that applying your fork to the original repository will make is deplayed. Verify your changes and make any further necessary edits to your fork. When complete, click `Create pull request`.
 
 ![compare changes](assets\contribute\single-file-compare-changes3.png)
 

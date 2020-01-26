@@ -38,7 +38,7 @@ You have now created your fork. A diff showing the changes that applying your fo
 
 #### Open a pull request
 
-When finished making edits, click `Create pull request`. Enter a descriptive title and description of your pull reuqest and click `Create pull request` again.
+When finished making edits, click `Create pull request`. Enter a descriptive title and description of your pull request and click `Create pull request` again.
 
 ![pull request](assets\contribute\single-file-create-pr4.png)
 

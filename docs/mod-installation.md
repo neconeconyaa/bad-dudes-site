@@ -39,7 +39,7 @@ Importing the mod list into the Arma launcher will automatically subscribe you t
 
 ![importing mod list](assets/mod-installation/import-mod-list.png)
 
-Note that once installation of the mods is finished you will have multiple warnings for mods with unmet dependencies.You may ignore these errors and when prompted you should not select the option to automatically setup the missing depdendencies. The mod list contains a number of alternate versions of mods that will not match the exact dependencies specified in other mods but will provide the same functionality.
+Note that once installation of the mods is finished you will have multiple warnings for mods with unmet dependencies.You may ignore these errors and when prompted you should not select the option to automatically setup the missing dependencies. The mod list contains a number of alternate versions of mods that will not match the exact dependencies specified in other mods but will provide the same functionality.
 
 ## Additional mods
 

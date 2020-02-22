@@ -5,7 +5,7 @@ title: ACRE & Teamspeak
 
 Bad Dudes uses the [Advanced Combat Radio Environment 2(ACRE2)](https://acre2.idi-systems.com/) mod. ACRE2 adds realistic radio simulation to Arma 3 by replacing the Arma 3 VoIP with an external dependency on Teamspeak 3.
 
-This allows for directional local speech, whispering, yelling, interactiable radios, and radio terrain interference simulation.
+This allows for directional local speech, whispering, yelling, interactable radios, and radio terrain interference simulation.
 
 ## Installing Teamspeak 3
 
@@ -39,7 +39,7 @@ After following either of the above installation methods you should now verify t
 
 1. Launch Teamspeak 3
 2. Select the `Tools` menu at the top and then click on `Options`
-3. Select the `Addons` tab on the lefft hand side.
+3. Select the `Addons` tab on the left hand side.
 4. Select the `Plugins` tab on the top.
 5. Verify that the entry for ACRE2 is present and is Enabled.
 
@@ -51,7 +51,7 @@ The next step is to connect to the server and verify that the server correctly r
 
 1. Open the `Connections` menu at the top left.
 2. Click on `Connect`
-3. Enter `oronar.net` in the server adddress field.
+3. Enter `oronar.net` in the server address field.
 4. Enter a nickname in the nickname field.
 5. Click the `Connect button.
 6. Click on your nickname in the server list and verify that you have an ACRE2 status in the right panel.

@@ -43,12 +43,24 @@ Note that once installation of the mods is finished you will have multiple warni
 
 ## Additional mods
 
-Bad Dudes regularly uses a set of maps that aren't required for every session and are not included in the main mod list. An annoucement prior to the session will be made if the one of these maps is required. If you like, you can subscribe to these Steam Workshop items to have them ready to go.
+Bad Dudes regularly uses a set of maps that aren't required for every session and are not included in the main mod list. An announcement prior to the session will be made if the one of these maps is required. If you like, you can subscribe to these Steam Workshop items to have them ready to go.
 
+### Maps
 * [Angola Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=1446500688)
 * [Bozcaada](https://steamcommunity.com/sharedfiles/filedetails/?id=5246226280)
-* [PKL LEGACY VERSION](https://steamcommunity.com/sharedfiles/filedetails/?id=950966660)
+* [Prei Khmaoch Luong Legacy](https://steamcommunity.com/sharedfiles/filedetails/?id=950966660)
+* [RHS Prei Khmaoch Luong](https://steamcommunity.com/sharedfiles/filedetails/?id=1978754337)
 * [Ruha](https://steamcommunity.com/sharedfiles/filedetails/?id=1368857262)
-* [VIDDA | LEGACY VERSION](https://steamcommunity.com/sharedfiles/filedetails/?id=1282716647)
+* [Vidda | LEGACY VERSION](https://steamcommunity.com/sharedfiles/filedetails/?id=1282716647)
+
+### Optional Client Side Mods
+* [3den Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=623475643)
+* [Achilles](https://steamcommunity.com/sharedfiles/filedetails/?id=723217262)
+* [Enhanced Video Settings](https://steamcommunity.com/sharedfiles/filedetails/?id=1223309664)
 
 
+## Alternate Mod Lists
+
+Occasionally Bad Dudes will do series of sessions with an alternate mod list, such as our World War II themed mod list. These lists can be installed in the same method as the regular mod list. Unload all mods before importing a mod list. Unless otherwise specified all mods are included in the mod list.
+
+* [World War II](assets/mod-installation/bad-dudes-wwii-mod-list.html)
